@@ -47,3 +47,5 @@ Conclusion
 This Real-Time Chat Application is an excellent example of modern web development using full-stack technologies. It demonstrates how frontend and backend systems can work together seamlessly to create interactive applications. By using tools like Socket.IO, developers can build scalable and efficient communication systems that are widely used in today’s digital world.
 
 The project is highly practical and serves as a strong foundation for building advanced applications such as social media platforms, live support systems, and collaborative tools. It also helps in understanding key concepts like WebSockets, asynchronous communication, and event-driven programming, which are essential skills for any full-stack developer.
+
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/035c720f-cc12-4d8a-8b57-b602ab667453" />
